@@ -1,0 +1,15 @@
+#header .logo {
+  color: #2e2f42;
+}
+
+.nav-menu a {
+  font-weight: 500;
+}
+
+.nav-menu a:normal {
+  color: #2e2f42;
+}
+
+address a {
+  font-weight: 400;
+}
